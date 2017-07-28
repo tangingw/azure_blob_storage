@@ -20,7 +20,7 @@ As I am currently still working on the installation package, you can use as foll
 ```sh
 $ cd your_project_folder
 $ git clone https://github.com/tangingw/azure_storage.git
-$ cd 
+$  
 ```
 
 Edit the ```credentials.json``` and enter your credentials from Azure Blob
