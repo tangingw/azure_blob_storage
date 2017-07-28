@@ -161,6 +161,8 @@ if __name__ == "__main__":
 
 ```
 
+For other tutorials, you can refer to ```tutorial``` folder.
+
 ### Development
 
 Want to contribute? Great!

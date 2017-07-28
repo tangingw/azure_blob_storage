@@ -6,7 +6,7 @@ def main():
     azure_blob = AzureBlob("foobar")
 
     """
-    You can list the file using a simple method
+    You can delete the file using a simple method
     """
     blob_name = "foo_bar/xyz.pdf"
 
